@@ -1,0 +1,11 @@
+{
+  "name": "My Mini App",
+  "description": "Mini app contoh - dibuat lokal",
+  "version": "1.0.0",
+  "start_url": "/",
+  "author": { "fid": 0, "displayName": "your-display-name" },
+  "embed": {
+    "title": "Buka My Mini App",
+    "action_label": "Buka"
+  }
+}
