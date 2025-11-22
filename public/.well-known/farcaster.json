@@ -1,11 +1,12 @@
 {
   "name": "My Mini App",
   "description": "Mini app contoh - dibuat lokal",
-  "version": "1.0.0",
   "start_url": "/",
-  "author": { "fid": 0, "displayName": "your-display-name" },
-  "embed": {
-    "title": "Buka My Mini App",
-    "action_label": "Buka"
+  "version": "1.0.0",
+  
+  "accountAssociation": {
+    "header": "eyJmaWQiOjEwOTM3NjksInR5cGUiOiJhdXRoIiwia2V5IjoiMHgwYzM2MkNlZjNDYWMzOTUzODFFN2I5Q0U5ZkZiMjI1NWUyZkY5MWE5In0",
+    "payload": "eyJkb21haW4iOiJteS1mYXJjYXN0ZXItbWluaWFwcC10ZW4udmVyY2VsLmFwcCJ9",
+    "signature": "Pp+Etyr8GZ2vWcVLc1n2dfHEaox3gHk4hIRIeXq/NklY7HAnCacGzxJ+aPWCKtLis0qnRWVOZ57FbOyK2TRF8hs="
   }
 }
